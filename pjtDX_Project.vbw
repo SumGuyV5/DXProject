@@ -1,0 +1,11 @@
+frmMenu = 66, 66, 773, 678, , 22, 22, 729, 634, C
+mdlMain = 44, 44, 767, 656, 
+frmGraphicOptions = 88, 88, 811, 700, , 66, 66, 773, 678, C
+mdlDirectX8 = 0, 0, 723, 612, 
+mdlDirect3D = 242, 242, 965, 854, 
+mdlGraphicOptions = 22, 22, 745, 634, 
+frmAbout = 110, 110, 817, 722, , 88, 88, 795, 700, C
+frmOptions = 132, 132, 855, 744, , 110, 110, 817, 722, C
+frmSinglePlayerGame = 154, 154, 877, 766, , 132, 132, 839, 744, C
+mdlDirectSound = 286, 286, 1009, 898, 
+mdlDirectShow = 264, 264, 987, 876, 
